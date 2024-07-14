@@ -1,4 +1,4 @@
-# K8s_Static_Pods_Manual_Scheduling_Labels_Selectors
+# K8s_Static_Pods_Manual_Scheduling
 
 ```
 kind: Cluster
