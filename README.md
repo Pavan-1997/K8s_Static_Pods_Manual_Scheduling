@@ -91,7 +91,7 @@ Now the schedular pod is on longer running
 
 Now trying to schedule a new pod with Manual Scheduling 
 
-`k apply -f nginx1.yaml`
+`k apply -f nginx.yaml`
 
 `k get pods`
 
